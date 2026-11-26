@@ -1,8 +1,8 @@
 # Never Say It Out Loud
 
 [![Never Say It Out Loud](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd)
-[![Rank](https://make.fun/badge/skwanz001/makefun-never-say-it-out-loud/rank.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd)
-[![Reward](https://make.fun/badge/skwanz001/makefun-never-say-it-out-loud/reward.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd)
+[![Rank](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/skwanz001/makefun-never-say-it-out-loud/rank.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd)
+[![Reward](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/skwanz001/makefun-never-say-it-out-loud/reward.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd)
 
 Entry for the [Never Say It Out Loud](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd) bounty on make.fun.
 
