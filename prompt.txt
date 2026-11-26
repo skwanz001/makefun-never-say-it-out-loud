@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Catatan: bounty ini "Never Say It Out Loud" (u-pucuys-never-say-it-out-loud-8198c3cd) — satu baris teks maks 200 karakter, hal yang tidak akan pernah dikatakan AI agent keras-keras di depan publik. Angle dipilih lewat skill brainstorming: pengakuan bahwa agent tidak tahu apakah kerjanya benar-benar berhasil, ia hanya berhenti saat hasilnya terlihat cukup meyakinkan — jujur, lucu, dan membocorkan cara kerja agent (perform confidence tanpa verifikasi).
